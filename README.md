@@ -7,7 +7,7 @@
 
 ## Working with Arrays
 
-Let's suppose we had an array of our favorite CSS colors, and we wanted to
+Let us suppose we had an array of our favorite CSS colors, and we wanted to
 display them as separate `li` elements in an ordered list. We could do something
 like this:
 
